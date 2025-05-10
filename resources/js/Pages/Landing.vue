@@ -31,9 +31,9 @@ import PageLayout from './PageLayout.vue';
                 </li>
                 <li>
                     The about page will contain your information: <br>
-                    Name: <br>
-                    Course & Year: <br>
-                    Cell No.:
+                    Name: Rassille Jhones Lofranco<br>
+                    Course & Year: BSIT-3<br>
+                    Cell No.: 09319568908
                 </li>
             </ol>
         </div>
